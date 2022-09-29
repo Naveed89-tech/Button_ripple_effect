@@ -14,8 +14,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github](https://github.com/Naveed89-tech/Background_blur)
-- Live Site URL: [Background_Blur](https://background-blurapp.netlify.app/)
+- Solution URL: [Github](https://github.com/Naveed89-tech/Button_ripple_effect)
+- Live Site URL: [Button_ripple_effect](https://click-button-ripple-effect.netlify.app/)
 
 ## My process
 
